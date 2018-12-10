@@ -13,3 +13,9 @@ baseurl: ""      # 这个我们不用填写
 # Sidebar settings
 sidebar: true                           # 是否开启侧边栏.
 sidebar-about-description: "日暮途远"
+
+# SNS settings
+RSS: false
+weibo_username:     loveNing
+zhihu_username:     跳下悬崖的猫
+github_username:    t6am3
