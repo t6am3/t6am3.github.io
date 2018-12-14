@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+#Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: t6am3's blog Youfeng Liu
+title: Never Stay
 email: youfeng@buaa.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  天行健，君子以自强不息
+  未曾清贫难成人，不经打击老天真
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  t6am3
