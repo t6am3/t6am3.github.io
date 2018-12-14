@@ -23,6 +23,7 @@ github_username:  t6am3
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 theme: minima
 plugins:
   - jekyll-feed
