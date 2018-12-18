@@ -13,12 +13,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# Basic info
 title: Never Stay
+#subtitle: 愛してる
 email: youfeng@buaa.edu.cn
-description: >- # this means to ignore newlines until "baseurl:"
-  不会就学
+description: 不会就学
+#welcome_message: Welcome~
+# Avatar
+avatarTitle: t6am3
+#avatarDesc: 我会变得无比强大
+
+# Social
+social:
+    weibo: loveNing
+    github: t6am3
+    mail: youfeng@buaa.edu.cn
+    music: 望成人
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "t6am3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  t6am3
 
 # Build settings
@@ -28,14 +42,30 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Options
+permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
+
+# The blog button should not be removed.
+blog_button:
+    title: 
+
+# Navigation buttons in the front page.s
+nav:
+   # - {title: 所有文章, description: archive, url: '/archive'}   
+   # - {title: 标签, description: tags, url: '/tags'}
+   # - {title: 项目, description: project, url: '/projects'}      
+    - {title: About, description: about, url: '/about'}
+          
+    
+
+# Pagination
+# plugins: [jekyll-paginate]
+# paginate: 10
+# paginate_path: "page/:num/"
