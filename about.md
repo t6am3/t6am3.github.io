@@ -9,7 +9,7 @@ permalink: /about/
 
 # About me:
 * ### Graduate student in Beihang University of CN.
-* ### Major: Computer science & tech, derictions: Cloud computing, distributed system & (Maybe)Data mining.
+* ### Major: Computer science & tech, directions: Cloud computing, distributed system & (Maybe)Data mining.
 * ### Interests: Games(Lol, HeartStone & Ps4 games), music, physics
 * ### I'm very glad to make more friends.: )
 
