@@ -31,7 +31,7 @@ social:
     mail: youfeng@buaa.edu.cn
     music: 望成人
 
-baseurl: "t6am3.github.io" # the subpath of your site, e.g. /blog
+#baseurl: "t6am3.github.io" # the subpath of your site, e.g. /blog
 url: "t6am3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  t6am3
 
